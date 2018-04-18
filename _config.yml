@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -44,3 +45,6 @@ sass:
 # Ruby Gems
 gems: [jekyll-paginate, jekyll-seo-tag]
 
+=======
+theme: jekyll-theme-architect
+>>>>>>> 4bbbb56c68b54e4c948550e19b0df68feec71998
